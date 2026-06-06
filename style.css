@@ -36,6 +36,7 @@
 	--warning-color: #ffab40;
 	--splash-color: var(--accent-bright);
 	--font-size: 10.5pt;
+	--control-size: 30px;
 }
 
 html[data-theme="Classic"] {
