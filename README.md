@@ -1,4 +1,4 @@
-# EnBeat_NEW
+# MituZero ByteBeat
 Live editing algorithmic music generator with a collection of many formulas from around the internet.
 
 > [!IMPORTANT]
@@ -14,7 +14,7 @@ Live editing algorithmic music generator with a collection of many formulas from
 > Any issues I see that just serve to add new modes/functions will be closed as not planned.
 > This is what I've already done and is what I will continue to do in the future.
 
-**Access player at https://chasyxx.github.io/EnBeat_NEW/**<br>
+**Access player at https://MituZero.github.io/MituBeat/**<br>
 **Dollchan discission threads https://dollchan.net/btb**
 
 ![UI buttons and a visualiser showing sierpinski triangles](https://user-images.githubusercontent.com/105890603/229014766-38a7c067-55d3-4120-9ed8-2a8aeb4c1f20.png)
